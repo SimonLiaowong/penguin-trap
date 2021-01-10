@@ -10,7 +10,7 @@ The winner must not causes the falling of the block under the figure.
 
 ## goal of project
 
-* Starter: find the maximum move in any n*n suqare-grid penguin-trap board
+* Starter: find the maximum move in any n*n suqare-grid penguin-trap board (where n is odd integer)
 * Final: find the maximum move in any hexagonal-grid penguin-trap board
   * Define hexagoal grid and its size
 
