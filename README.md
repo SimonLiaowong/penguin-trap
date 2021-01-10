@@ -18,3 +18,14 @@ Each one use method of random play (Play random move until the game is ended).
 
 * Special: improve runtime of "update_board" funtion.
 * Ultimate: explaining the answer using game amd graph theory.
+
+## functions
+* initial_board(n, position_penguin = None)
+* penguin_position(board) 
+* penguin_die(board)
+* remove_position(board,x,y)
+* block_fail(board)
+* update_board(board)
+* pretty_print(board)
+* random_play_stop(board)
+* random_play(board)
